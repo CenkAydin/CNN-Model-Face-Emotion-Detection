@@ -25,3 +25,6 @@ Eğitim için başlangıçta 100 epoch değeri verilmiş ayrıca batch_size 64 o
 
 Test yapmak amacıyla confusion matrix gibi metriklere göz atılmıştır. Ayrıca Webcam ile test yapmak amacıyla notebook'un en sonuna yüz tanıma + yüzde duygu tanıma yapan hücre eklenmiştir.
 
+![image](https://github.com/CenkAydin/CNN-Model-Face-Emotion-Detection/assets/96331472/1afb9614-1eca-4f59-ad3c-1ade55881c58)
+
+Yukarıda eğitim sırasında elde edilen Accuracy ve Loss grafiği yer almaktadır. Face Emotion Detection konusu son 3 yıldır üzerinde araştırmalar yapılan bir konu olduğu için yüzde 60 için fena olmayan bir Accuracy değeri sonucu denilebilir.
