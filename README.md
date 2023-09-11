@@ -3,10 +3,10 @@
 
 ## Veri Seti
 
-Notebook dosyasında veri seti olarak FER-2013 kullanılmıştır. (https://www.kaggle.com/datasets/msambare/fer2013)
+Veri seti olarak FER-2013 kullanılmıştır. (https://www.kaggle.com/datasets/msambare/fer2013)
 Veri setindeki "disgust" sınıfı doğruluk oranını düşürdüğü için ve diğer sınıflara göre daha az örnek içerdiği için atılmıştır.
 
-Eğitilen modeli hedefi insan yüzündeki 'angry', 'fear', 'happy', 'neutral', 'sad', 'surprise' duygularını sınıflandırmaktır. 
+Eğitilen modelin hedefi insan yüzündeki 'angry', 'fear', 'happy', 'neutral', 'sad', 'surprise' duygularını sınıflandırmaktır. 
 
 ## Veri Hazırlama
 
@@ -23,5 +23,5 @@ Eğitim için başlangıçta 100 epoch değeri verilmiş ayrıca batch_size 64 o
 
 ## Test
 
-Test yapmak amacıyla confusion matrix gibi metriklere göz atılmıştır. Ayrıca Webcam ile test yapmak amacıyla en notebook'un en sonuna yüz tanıma + yüzde duygu tanıma yapan hücre eklenmiştir.
+Test yapmak amacıyla confusion matrix gibi metriklere göz atılmıştır. Ayrıca Webcam ile test yapmak amacıyla notebook'un en sonuna yüz tanıma + yüzde duygu tanıma yapan hücre eklenmiştir.
 
